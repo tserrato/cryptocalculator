@@ -22,5 +22,47 @@ h1{
 
 #right{
     float: right;
-    width: 75%;
+    width: 60%;
+    height: 82vh;
+    border: 2px solid white;
+    border-radius: 10px;
+    margin-top: 25px;
+    background-color: rgba(0, 0, 0, 0.3);
+    
+
+}
+#holder{
+    height: 25%;
+    width: 100%;
+}
+
+.btcimg{
+    width: 50px;
+    margin-left: 25px;
+    margin-top: 50px;
+    
+}
+
+.ethimg{
+    width: 50px;
+    margin-left: 25px;
+    margin-top: 50px;
+    
+}
+
+.ltcimg{
+    width: 100px;
+    margin-top: 45px;
+    
+}
+
+.xmrimg{
+    width: 50px;
+    margin-left: 25px;
+    margin-top: 50px;
+    
+}
+
+.top{
+    border-top: 1px solid white;
 }
